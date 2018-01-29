@@ -1,0 +1,17 @@
+/*body {background-color:#82b1ff;}*/
+h3 {color:green;}
+h4 {color:blue;}
+p {color:black; font-size:12pt; font-family:"Verdana",sans-serif;}
+table.center {
+margin-left:auto;
+margin-right:auto;
+}
+
+body{
+background-image: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.8)100%), url(../figuras/montana2.jpg);
+}
+
+p{color:white}
+
+
+
